@@ -63,9 +63,9 @@ public class ClientController implements Serializable {
               
        public ClientController() { 
       clients = new ArrayList();
-      clients.add(new Client("Alice", "Cooper", "888", "singer")); 
-      clients.add(new Client("Lars", "Urlich", "6455", "guitarist")); 
-       clients.add(new Client("Andrzej", "Duda", "5556", "presiden"));
+      clients.add(new Client("Alice", "Cooper", "888 975 032", "singer")); 
+      clients.add(new Client("Lars", "Urlich", "786 643 231", "guitarist")); 
+       clients.add(new Client("Keanu", "Reeves", "555 654 456", "actor"));
        filteredClients = new ArrayList<>();
        filteredClients.addAll(clients);
 }
