@@ -16,7 +16,7 @@ This application was created as a result of exercises and willingness to learn h
 
 ## Screenshots 
 ![0](.screenshots/crud.jpg)
-![1](.src/java/screenshots/crud1.jpg) 
+![1](/src/java/screenshots/crud1.jpg) 
 ![2](.src/java/screenshots/crud2.jpg) 
 ![3](.src/java/screenshots/crud3.jpg)
 
